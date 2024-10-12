@@ -50,6 +50,11 @@ Next, run the container:
 docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 ```
 
+For windows:
+```bash
+docker run -p 4000:4000 --rm -v %cd%:/usr/src/app jekyll-site
+```
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
