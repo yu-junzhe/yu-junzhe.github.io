@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC07209.jpg"
+  avatar           : "DSC07209.png"
   name             : "Yu Junzhe"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at ShanghaiTech University"
