@@ -21,7 +21,7 @@ repository               : "yu-junzhe/yu-junzhe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "new_photo.jpg"
   name             : "Yu Junzhe"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at ShanghaiTech University"
